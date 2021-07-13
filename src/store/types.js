@@ -1,0 +1,2 @@
+export const ADDINGBOOK = "ADDINGBOOK";
+export const READINGBOOK = "READINGBOOK";
